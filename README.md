@@ -264,9 +264,10 @@ You can check out the live here:
 
 ![Screenshot (156)](https://github.com/user-attachments/assets/5bf361c7-f8a4-4a17-a9d5-0557f472a1ce)
 
-# 🌐 **Live Demo**
-## 🌐 Live Preview
 
+# 🌐 **Live Preview**
+
+[Click here to view the site]  https://685624772182a3228c7359f1--medicomeet.netlify.app/
 
 
 
