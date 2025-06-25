@@ -189,7 +189,8 @@ You can check out the live here:
 ## **About**
 
 
-![Screenshot_20-6-2025_19550_localhost](https://github.com/user-attachments/assets/d4c702ae-b3c1-496d-84d8-b442d796b1ff)
+![Screenshot_25-6-2025_101724_localhost](https://github.com/user-attachments/assets/a1cdb927-742d-4d8a-a75e-1f9c1c021f3e)
+
 
 
 ## **Contact**
@@ -267,8 +268,7 @@ You can check out the live here:
 
 # 🌐 **Live Preview**
 
-[Click here to view the site]  https://685624772182a3228c7359f1--medicomeet.netlify.app/
-
+[Click here to view the site] https://cozy-brioche-13d622.netlify.app/
 
 
 
