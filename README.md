@@ -71,8 +71,11 @@ Include all major screenshots here:
 ![Screenshot_20-6-2025_19547_localhost](https://github.com/user-attachments/assets/7e876da3-32aa-49e8-bfb0-5c6a083e861f)
 
 ## **About**
+![screencapture-localhost](https://github.com/user-attachments/assets/3823ab24-52f9-40cb-a2fa-f7f0fc3cd09d)
 
-![Screenshot_25-6-2025_101724_localhost](https://github.com/user-attachments/assets/a1cdb927-742d-4d8a-a75e-1f9c1c021f3e)
+
+![Uploading screencapture-localhost-5173-about-2025-09-15-12_34_01.png…]()
+
 
 ## **Contact**
 
