@@ -45,7 +45,7 @@
 
 ## 🔥 Live Preview
 
-🌐 [Click here to view the live site]  https://cozy-brioche-13d622.netlify.app/
+🌐 [Click here to view the live site]  https://medicomeet.netlify.app/
 
 
 ---
